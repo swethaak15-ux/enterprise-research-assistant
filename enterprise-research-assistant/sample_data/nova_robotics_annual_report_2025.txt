@@ -1,0 +1,45 @@
+NOVA ROBOTICS INC. — ANNUAL REPORT SUMMARY (FISCAL YEAR 2025)
+
+COMPANY OVERVIEW
+Nova Robotics Inc. designs and manufactures autonomous warehouse robots for
+mid-size logistics companies. Founded in 2018, the company is headquartered
+in Austin, Texas, with a manufacturing facility in Guadalajara, Mexico.
+
+FINANCIAL HIGHLIGHTS
+- Total revenue: $184.3 million (up 27% year-over-year)
+- Gross margin: 41.2%
+- R&D spend: $22.6 million (12.3% of revenue)
+- Net income: $9.1 million (first profitable fiscal year)
+- Cash and equivalents: $63.4 million
+
+BUSINESS SEGMENTS
+1. Hardware — autonomous mobile robots (AMRs) and robotic arms, 68% of revenue.
+2. Software — fleet management platform "NovaOS", sold on a per-robot
+   subscription basis, 24% of revenue.
+3. Services — installation, maintenance and training contracts, 8% of revenue.
+
+KEY CUSTOMERS
+Nova Robotics serves over 140 warehouse operators across North America,
+including three of the ten largest third-party logistics (3PL) providers in
+the United States. No single customer represents more than 9% of revenue.
+
+STRATEGIC PRIORITIES FOR FISCAL YEAR 2026
+- Expand into the European market via a new distribution partnership.
+- Launch NovaOS 3.0 with predictive maintenance powered by on-device AI.
+- Reduce hardware bill-of-materials cost by 15% through supplier
+  consolidation.
+- Grow the services segment to 12% of total revenue.
+
+RISK FACTORS
+- Reliance on a small number of semiconductor suppliers for robot
+  controllers, creating exposure to component shortages.
+- Increasing competition from larger industrial automation vendors entering
+  the AMR market.
+- Currency exposure from manufacturing costs denominated in Mexican pesos.
+- Customer concentration risk in the logistics/e-commerce sector, which is
+  cyclical.
+
+OUTLOOK
+Management expects fiscal year 2026 revenue growth of 20-24%, with gross
+margin expansion to approximately 43% as manufacturing scale increases and
+software mix grows.
